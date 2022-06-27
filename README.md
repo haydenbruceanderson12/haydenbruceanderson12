@@ -1,14 +1,14 @@
 Hi 👋 My name is Hayden Anderson
 ================================
 
-C# .Net and React Developer
+React Developer
 ---------------------------
 
-I am an ambitious 20 year old C# .Net and React Developer. I am problem-solving orientated and an analytical thinker. I am a fast learner with a desire to continue broadening my knowledge base.
+I am an ambitious 20 year old React Developer with knowledge of C# and .Net programming. I am problem-solving orientated and an analytical thinker. I am a fast learner with a desire to continue broadening my knowledge base.
 
 * 🌍  I'm based in Cape Town
 * ✉️  You can contact me at [haydenbruceanderson12@gmail.com](mailto:haydenbruceanderson12@gmail.com)
-* 🧠  I'm learning ASP.Net
+* 🧠  I'm learning C# .Net
 * 🤝  I'm open to collaborating on Any C# .Net or JS/React projects.
 
 ### Skills
