@@ -1,7 +1,7 @@
 Hi 👋 My name is Hayden Anderson
 ================================
 
-React Developer
+Software Developer
 ---------------------------
 
 I am an ambitious 20 year old React Developer with knowledge of C# and .Net programming. I am problem-solving orientated and an analytical thinker. I am a fast learner with a desire to continue broadening my knowledge base.
